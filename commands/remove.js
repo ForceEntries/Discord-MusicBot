@@ -3,7 +3,7 @@ const { TrackUtils } = require("erela.js");
 
   module.exports = {
     name: "remove",
-    description: `Remove a song from the queue`,
+    description: `hapus semua daftar antrian`,
     usage: "[number]",
     permissions: {
       channel: ["VIEW_CHANNEL", "SEND_MESSAGES", "EMBED_LINKS"],
