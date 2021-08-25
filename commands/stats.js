@@ -5,7 +5,7 @@ const moment = require("moment");
 
 module.exports = {
     name: "stats",
-    description: "Get information about the bot",
+    description: "Mendapatkan informasi tentang bot",
     usage: "",
     permissions: {
         channel: ["VIEW_CHANNEL", "SEND_MESSAGES", "EMBED_LINKS"],
