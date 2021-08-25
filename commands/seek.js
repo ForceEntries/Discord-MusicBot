@@ -3,7 +3,7 @@ const { TrackUtils } = require("erela.js");
 
 module.exports = {
     name: "seek",
-    description: "Seek to a position in the song",
+    description: "Cari posisi dalam lagu",
     usage: "<time s/m/h>",
     permissions: {
         channel: ["VIEW_CHANNEL", "SEND_MESSAGES", "EMBED_LINKS"],
